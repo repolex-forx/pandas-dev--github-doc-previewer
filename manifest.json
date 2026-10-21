@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "pandas-dev",
+  "repo": "github-doc-previewer",
+  "versions": [
+    {
+      "commit": "7a1ea7e96d1a24578ec35eedd4256a7d80c3fef8",
+      "parsed_at": "2026-10-21T20:46:54.266848+00:00",
+      "tag": "v0.3.2",
+      "filetree": "filetree/7a1ea7e96d1a24578ec35eedd4256a7d80c3fef8.nq.gz",
+      "blobs": [
+        "blob/7c1cd9c49b78b4d89df2c83ba7ea0a68f590704e.nq.gz",
+        "blob/e4d8a19f24389a71da1770684bbd0ede14de49c6.nq.gz",
+        "blob/7d1f7da5e59fcace921efedbd5641f29d4d48cf7.nq.gz",
+        "blob/fb854a5827ba97bdb29f16407603de7c333d01ac.nq.gz",
+        "blob/64e10e667ef36373c818d5bb88fe1bc87ae97239.nq.gz",
+        "blob/2d1c34fd9d7fce19d2818d226c3ef6542d2ea9cd.nq.gz",
+        "blob/79d0202c00e8572564ec6da57da10a74f93069d8.nq.gz",
+        "blob/4c618e9bc95846b7b4cace16d70fb31eca9f99f6.nq.gz",
+        "blob/61e1be6c5ea97fdc321e8360dfefc6c9a250a60e.nq.gz",
+        "blob/c77de07284bd78377d120b3368e628d041643c7a.nq.gz",
+        "blob/198733d6d125282c1f3e032c32ea3d3048aeb4f6.nq.gz",
+        "blob/e0ff89e97e4543977164c9678d428f76afe17d88.nq.gz",
+        "blob/9c7ea4ac3a0cbecbb6b05643b5c89acfe40db465.nq.gz",
+        "blob/ea8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba.nq.gz",
+        "blob/579a508dad3c9905ce2f574d872989d709058b23.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
