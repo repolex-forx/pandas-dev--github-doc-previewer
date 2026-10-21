@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pandas-dev/github-doc-previewer/commit/7a1ea7e96d1a24578ec35eedd4256a7d80c3fef8",
       "git:hexsha": "7a1ea7e96d1a24578ec35eedd4256a7d80c3fef8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.3.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.3.2",
+      "repolex:parsedAt": "2026-10-21T20:49:44.344664+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pandas-dev/github-doc-previewer/commit/70c9c6ac576be153c014cda36e6ddbf1044cd2a4",
